@@ -60,7 +60,7 @@ namespace VSG.Controllers
                     var result = results.ToList().ToPagedList(pageIndex, pageSize);
                     return View("Index", result);
                 }
-                return HttpNotFound("Khong tim thay dich vu!!! Moi nhap lai di ");
+                return HttpNotFound("Khong tim thay dich vu nay !!! Moi nhap lai di ");
             }
             return View(models);
         }
