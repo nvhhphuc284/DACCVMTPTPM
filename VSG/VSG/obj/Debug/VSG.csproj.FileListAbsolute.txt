@@ -1,0 +1,664 @@
+D:\lab3\VSG\VSG\bin\VSG.dll.config
+D:\lab3\VSG\VSG\bin\VSG.dll
+D:\lab3\VSG\VSG\bin\VSG.pdb
+D:\lab3\VSG\VSG\bin\roslyn\csc.exe
+D:\lab3\VSG\VSG\bin\roslyn\csc.exe.config
+D:\lab3\VSG\VSG\bin\roslyn\csc.rsp
+D:\lab3\VSG\VSG\bin\roslyn\csi.exe
+D:\lab3\VSG\VSG\bin\roslyn\csi.exe.config
+D:\lab3\VSG\VSG\bin\roslyn\csi.rsp
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lab3\VSG\VSG\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.AppContext.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Collections.Immutable.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Console.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Globalization.Calendars.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.IO.Compression.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.IO.FileSystem.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Net.Http.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Net.Sockets.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Reflection.Metadata.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.ValueTuple.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Xml.XPath.dll
+D:\lab3\VSG\VSG\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lab3\VSG\VSG\bin\roslyn\vbc.exe
+D:\lab3\VSG\VSG\bin\roslyn\vbc.exe.config
+D:\lab3\VSG\VSG\bin\roslyn\vbc.rsp
+D:\lab3\VSG\VSG\bin\roslyn\VBCSCompiler.exe
+D:\lab3\VSG\VSG\bin\roslyn\VBCSCompiler.exe.config
+D:\lab3\VSG\VSG\bin\Antlr3.Runtime.dll
+D:\lab3\VSG\VSG\bin\EntityFramework.dll
+D:\lab3\VSG\VSG\bin\EntityFramework.SqlServer.dll
+D:\lab3\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.dll
+D:\lab3\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\lab3\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\lab3\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Google.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.dll
+D:\lab3\VSG\VSG\bin\Microsoft.Web.Infrastructure.dll
+D:\lab3\VSG\VSG\bin\Newtonsoft.Json.dll
+D:\lab3\VSG\VSG\bin\Owin.dll
+D:\lab3\VSG\VSG\bin\System.Web.Helpers.dll
+D:\lab3\VSG\VSG\bin\System.Web.Mvc.dll
+D:\lab3\VSG\VSG\bin\System.Web.Optimization.dll
+D:\lab3\VSG\VSG\bin\System.Web.Razor.dll
+D:\lab3\VSG\VSG\bin\System.Web.WebPages.Deployment.dll
+D:\lab3\VSG\VSG\bin\System.Web.WebPages.dll
+D:\lab3\VSG\VSG\bin\System.Web.WebPages.Razor.dll
+D:\lab3\VSG\VSG\bin\WebGrease.dll
+D:\lab3\VSG\VSG\bin\System.Web.Helpers.xml
+D:\lab3\VSG\VSG\bin\System.Web.Mvc.xml
+D:\lab3\VSG\VSG\bin\System.Web.Optimization.xml
+D:\lab3\VSG\VSG\bin\System.Web.Razor.xml
+D:\lab3\VSG\VSG\bin\System.Web.WebPages.xml
+D:\lab3\VSG\VSG\bin\System.Web.WebPages.Deployment.xml
+D:\lab3\VSG\VSG\bin\System.Web.WebPages.Razor.xml
+D:\lab3\VSG\VSG\bin\Newtonsoft.Json.xml
+D:\lab3\VSG\VSG\bin\Antlr3.Runtime.pdb
+D:\lab3\VSG\VSG\bin\EntityFramework.xml
+D:\lab3\VSG\VSG\bin\EntityFramework.SqlServer.xml
+D:\lab3\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.xml
+D:\lab3\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\lab3\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Google.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\lab3\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.xml
+D:\lab3\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lab3\VSG\VSG\obj\Debug\VSG.csproj.AssemblyReference.cache
+D:\lab3\VSG\VSG\obj\Debug\VSG.csproj.CoreCompileInputs.cache
+D:\lab3\VSG\VSG\obj\Debug\VSG.csproj.CopyComplete
+D:\lab3\VSG\VSG\obj\Debug\VSG.dll
+D:\lab3\VSG\VSG\obj\Debug\VSG.pdb
+C:\Users\BAO\Downloads\VSG\VSG\bin\VSG.dll.config
+C:\Users\BAO\Downloads\VSG\VSG\bin\VSG.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\VSG.pdb
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\csc.exe
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\csc.exe.config
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\csc.rsp
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\csi.exe
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\csi.exe.config
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\csi.rsp
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.AppContext.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Console.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.IO.Compression.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Net.Http.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.ValueTuple.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\vbc.exe
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\vbc.exe.config
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\vbc.rsp
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\VBCSCompiler.exe
+C:\Users\BAO\Downloads\VSG\VSG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BAO\Downloads\VSG\VSG\bin\Antlr3.Runtime.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\EntityFramework.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\EntityFramework.SqlServer.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Newtonsoft.Json.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\Owin.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Helpers.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Mvc.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Optimization.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Razor.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.WebPages.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.WebPages.Razor.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\WebGrease.dll
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Helpers.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Mvc.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Optimization.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.Razor.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.WebPages.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\System.Web.WebPages.Razor.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Newtonsoft.Json.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Antlr3.Runtime.pdb
+C:\Users\BAO\Downloads\VSG\VSG\bin\EntityFramework.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\EntityFramework.SqlServer.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BAO\Downloads\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BAO\Downloads\VSG\VSG\obj\Debug\VSG.csproj.AssemblyReference.cache
+C:\Users\BAO\Downloads\VSG\VSG\obj\Debug\VSG.csproj.CoreCompileInputs.cache
+C:\Users\BAO\Downloads\VSG\VSG\obj\Debug\VSG.csproj.CopyComplete
+C:\Users\BAO\Downloads\VSG\VSG\obj\Debug\VSG.dll
+C:\Users\BAO\Downloads\VSG\VSG\obj\Debug\VSG.pdb
+C:\Users\ASUS\Downloads\VSG\VSG\bin\VSG.dll.config
+C:\Users\ASUS\Downloads\VSG\VSG\bin\VSG.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\VSG.pdb
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\VSG\VSG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Owin.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\VSG\VSG\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\VSG\VSG\obj\Debug\VSG.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\VSG\VSG\obj\Debug\VSG.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\VSG\VSG\obj\Debug\VSG.csproj.CopyComplete
+C:\Users\ASUS\Downloads\VSG\VSG\obj\Debug\VSG.dll
+C:\Users\ASUS\Downloads\VSG\VSG\obj\Debug\VSG.pdb
+C:\Users\ASUS\Downloads\VSG\VSG\bin\PagedList.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\PagedList.xml
+C:\Users\ASUS\Downloads\VSG\VSG\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Downloads\VSG\VSG\bin\PagedList.Mvc.xml
+D:\VSG\VSG\VSG\bin\VSG.dll.config
+D:\VSG\VSG\VSG\bin\VSG.dll
+D:\VSG\VSG\VSG\bin\VSG.pdb
+D:\VSG\VSG\VSG\bin\roslyn\csc.exe
+D:\VSG\VSG\VSG\bin\roslyn\csc.exe.config
+D:\VSG\VSG\VSG\bin\roslyn\csc.rsp
+D:\VSG\VSG\VSG\bin\roslyn\csi.exe
+D:\VSG\VSG\VSG\bin\roslyn\csi.exe.config
+D:\VSG\VSG\VSG\bin\roslyn\csi.rsp
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VSG\VSG\VSG\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.AppContext.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Collections.Immutable.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Console.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Globalization.Calendars.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.IO.Compression.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.IO.FileSystem.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Net.Http.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Net.Sockets.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Reflection.Metadata.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.ValueTuple.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Xml.XPath.dll
+D:\VSG\VSG\VSG\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VSG\VSG\VSG\bin\roslyn\vbc.exe
+D:\VSG\VSG\VSG\bin\roslyn\vbc.exe.config
+D:\VSG\VSG\VSG\bin\roslyn\vbc.rsp
+D:\VSG\VSG\VSG\bin\roslyn\VBCSCompiler.exe
+D:\VSG\VSG\VSG\bin\roslyn\VBCSCompiler.exe.config
+D:\VSG\VSG\VSG\bin\Antlr3.Runtime.dll
+D:\VSG\VSG\VSG\bin\EntityFramework.dll
+D:\VSG\VSG\VSG\bin\EntityFramework.SqlServer.dll
+D:\VSG\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VSG\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VSG\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VSG\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Google.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VSG\VSG\VSG\bin\Microsoft.Web.Infrastructure.dll
+D:\VSG\VSG\VSG\bin\Newtonsoft.Json.dll
+D:\VSG\VSG\VSG\bin\Owin.dll
+D:\VSG\VSG\VSG\bin\PagedList.dll
+D:\VSG\VSG\VSG\bin\PagedList.Mvc.dll
+D:\VSG\VSG\VSG\bin\System.Web.Helpers.dll
+D:\VSG\VSG\VSG\bin\System.Web.Mvc.dll
+D:\VSG\VSG\VSG\bin\System.Web.Optimization.dll
+D:\VSG\VSG\VSG\bin\System.Web.Razor.dll
+D:\VSG\VSG\VSG\bin\System.Web.WebPages.Deployment.dll
+D:\VSG\VSG\VSG\bin\System.Web.WebPages.dll
+D:\VSG\VSG\VSG\bin\System.Web.WebPages.Razor.dll
+D:\VSG\VSG\VSG\bin\WebGrease.dll
+D:\VSG\VSG\VSG\bin\PagedList.xml
+D:\VSG\VSG\VSG\bin\PagedList.Mvc.xml
+D:\VSG\VSG\VSG\bin\System.Web.Helpers.xml
+D:\VSG\VSG\VSG\bin\System.Web.Mvc.xml
+D:\VSG\VSG\VSG\bin\System.Web.Optimization.xml
+D:\VSG\VSG\VSG\bin\System.Web.Razor.xml
+D:\VSG\VSG\VSG\bin\System.Web.WebPages.xml
+D:\VSG\VSG\VSG\bin\System.Web.WebPages.Deployment.xml
+D:\VSG\VSG\VSG\bin\System.Web.WebPages.Razor.xml
+D:\VSG\VSG\VSG\bin\Newtonsoft.Json.xml
+D:\VSG\VSG\VSG\bin\Antlr3.Runtime.pdb
+D:\VSG\VSG\VSG\bin\EntityFramework.xml
+D:\VSG\VSG\VSG\bin\EntityFramework.SqlServer.xml
+D:\VSG\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VSG\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VSG\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Google.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VSG\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VSG\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VSG\VSG\VSG\obj\Debug\VSG.csproj.AssemblyReference.cache
+D:\VSG\VSG\VSG\obj\Debug\VSG.csproj.CoreCompileInputs.cache
+D:\VSG\VSG\VSG\obj\Debug\VSG.csproj.CopyComplete
+D:\VSG\VSG\VSG\obj\Debug\VSG.dll
+D:\VSG\VSG\VSG\obj\Debug\VSG.pdb
+D:\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.csproj.AssemblyReference.cache
+D:\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.csproj.CoreCompileInputs.cache
+D:\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.pdb
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\VSG.dll.config
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\VSG.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\VSG.pdb
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csc.exe
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csc.exe.config
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csc.rsp
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csi.exe
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csi.exe.config
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csi.rsp
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.AppContext.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Console.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Globalization.Calendars.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Net.Http.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Net.Sockets.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\vbc.exe
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\vbc.exe.config
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\vbc.rsp
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Antlr3.Runtime.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.SqlServer.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Newtonsoft.Json.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Owin.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.Mvc.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Helpers.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Mvc.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Optimization.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Razor.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\WebGrease.dll
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.Mvc.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Helpers.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Mvc.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Optimization.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Razor.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Newtonsoft.Json.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Antlr3.Runtime.pdb
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.SqlServer.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.csproj.CopyComplete
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\VSG.dll.config
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\VSG.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\VSG.pdb
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Owin.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.csproj.CopyComplete
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.dll
+C:\Users\ASUS\Downloads\VSG1 (1)\VSG\VSG\obj\Debug\VSG.pdb

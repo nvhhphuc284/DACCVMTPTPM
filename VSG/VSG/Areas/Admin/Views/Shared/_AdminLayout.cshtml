@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MONO</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rokkitt:100,300,400,700" rel="stylesheet">
+    <link href="~/Content/css/animate.css" rel="stylesheet" />
+    <link href="~/Content/css/icomoon.css" rel="stylesheet" />
+    <link href="~/Content/css/ionicons.min.css" rel="stylesheet" />
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/Content/css/flexslider.css" rel="stylesheet" />
+    <link href="~/Content/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/Content/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="~/Content/css/bootstrap-datepicker.css" rel="stylesheet" />
+    <link href="~/Content/fonts/flaticon/font/flaticon.css" rel="stylesheet" />
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-
+                        target=".navbar-collapse" title="more options">
+
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("VSG", "Index", "Home", new { area = "" }, new
+                {
+                    @class =
+                "navbar-brand"
+                })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Quản lý", "Index", "Category", new
+                        {
+                            area =
+                "Admin"
+                        }, null)
+                    </li>
+                    <li>
+                        @Html.ActionLink("Quản lý GIÀY", "Index", "Shoe", new
+                        {
+                            area = "Admin"
+                }, null)
+                    </li>
+                </ul>
+                @Html.Partial("_LayoutPatialAdmin")
+            </div>
+        </div>
+    </div>
+     Content row 
+    <div class="container">
+        <div class="row">
+             SIDEBAR Open 
+            <div id="content-left" class="col-2 col-lg-2">
+                <h1>Quản lý</h1>
+                <ul>
+                    <li>
+                        @Html.ActionLink("Quản lý Chủ đề", "Index", "Category", new
+                        {
+                            area =
+                "Admin"
+                        }, null)
+                    </li>
+                    <li>
+                        @Html.ActionLink("Quản lý shoe", "Index", "Shoe", new
+                        {
+                            area = "Admin"
+                }, null)
+                    </li>
+                </ul>
+            </div>
+             right content box 
+            <div id="content-right" class="col-lg-10 container">
+                @RenderBody()
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <footer style="text-align:center">
+                    <p>&copy; @DateTime.Now.Year - Lập trình Web</p>
+                </footer>
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @Scripts.Render("~/Scripts/jquery.validate.min.js")
+    @Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+</body>
+</html>
+

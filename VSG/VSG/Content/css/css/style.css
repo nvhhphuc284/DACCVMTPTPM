@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headline {
+    text-align: center;
+    margin: 40px 0px;
+    background-size: 100% auto;
+}
+
+h3 {
+    font-size: 18px;
+    color: #bebebe;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid #bebebe;
+    display: inline-block;
+    color: #555;
+    font-weight: 600;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.product-items{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ddd;
+    padding: 12px;
+}
+.product-item{
+    width: 19%;
+    background-color: #fff;
+    padding: 12px;
+    text-align: center;
+}
+.product-item img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.product-item button{
+    margin-top: 12px;
+    height: 30px;
+    padding: 0 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+.product-item button:hover{
+    background-color: tomato;
+}
+/*--------------------gio hang---------------*/
+.giohang{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top:30px ;
+}
+.giohang h2{
+    margin-bottom: 20px;
+}
+.giohang table{
+    width: 100%;
+}
+.giohang table thead tr th:first-child{
+    text-align: left;
+}
+.giohang table td tr{
+    border-bottom:1px solid#ddd ;
+    padding: 12px 0;
+}
+.giohang table thead tr th:last-child{
+    text-align: right;
+}
+.giohang table tbody tr td:last-child{
+    text-align: right;
+}
+/*---------------gio hang----------------*/
+
+.giohang button{
+    margin-top: 12px;
+    height: 30px;
+    padding: 0 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+.giohang button:hover{
+    background-color: aqua;
+}

@@ -1,0 +1,18 @@
+﻿@model VSG.Models.Shoe_Service
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Search</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Result))
+{
+    <p>@ViewBag.Result</p>
+}
+else
+{
+    <p> @ViewBag.HttpNotFound </p>
+}
+<p>@Html.ActionLink("Back to Home", "Index")</p>
+
+
